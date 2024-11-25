@@ -24,6 +24,7 @@ webapp/rust/
 
 # 環境変数のファイル名に合わせること
 env.sh
+!common/env.sh
 !s1/home/isucon/env.sh
 !s2/home/isucon/env.sh
 !s3/home/isucon/env.sh
